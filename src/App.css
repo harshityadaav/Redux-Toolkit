@@ -1,0 +1,40 @@
+.App-header {
+  background-color: #282c34;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  height: 10vh;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.value{
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  margin-top: 20px;
+}
+
+button{
+  padding: 10px;
+  margin: 10px;
+  background-color: #282c34;
+  cursor: pointer;
+  border: none;
+  border-radius: 7px;
+  color: white;
+}
+button:hover{
+  background-color:rgb(43, 226, 141);
+}
+
+
+.btn{
+  display: flex;
+  justify-content: center;
+}
